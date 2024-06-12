@@ -17,7 +17,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">X</a></td>
- <td><a href="https://github.com/Mina080040/NetworkProgrammin">網路程式設計</a></td>
+ <td><a href="https://github.com/Mina080040/NetworkProgramming">網路程式設計</a></td>
  <td>尹 O 麗</td>
  </tr>
 
